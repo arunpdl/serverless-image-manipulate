@@ -1,0 +1,3 @@
+interface ParsedReqs {
+  image: string;
+}
